@@ -1,5 +1,5 @@
 
-# Today class is about Chapter 02 
+# Today class Chapter 02 is about 
 
 1. The project managment and the information techonolgy context
 2. Learning Objectives 
