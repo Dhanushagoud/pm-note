@@ -1,7 +1,5 @@
 
-## pm-note
-
-# Today class is about Chapter 02 which is
+# Today class is about Chapter 02 
 
 1. The project managment and the information techonolgy context
 2. Learning Objectives 
