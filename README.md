@@ -11,9 +11,9 @@
  - Project managers need to use systems thinking:
   Taking a holistic view of carrying out projects within the context of the organization 
 4. The Three-Sphere Model for Systems Management
- .Bussiness
- .Organzation
- .Technology
+ - Bussiness
+ - Organzation
+ - Technology
 5. Understanding Organizations
  - Systems approach requires that project managers always view their projects in the context of the larger organization
  - Organizational issues are often the most difficult part of working on and managing projects
